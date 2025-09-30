@@ -3,10 +3,10 @@
 I am `Jakob`, a chef and hospitality expert turned into an IT student. 🔪👨‍🍳⚡🖥️
 
 ## 💡 I am currently interested in:
-- 🌐 Web development (Node.js, Express, Vue.js)
-- 🔐 Cybersecurity & penetration testing
-- 🎮 Game development & simulations (Unity, ML Agents)
-- 📊 Data analysis & programming (Python)
+-  Web development (Node.js, Express, Vue.js)
+-  Cybersecurity & penetration testing
+-  Game development & simulations (Unity, ML Agents)
+-  Data analysis & programming (Python)
 
 ## ✨ What motivates me:
 - Building practical solutions from scratch
