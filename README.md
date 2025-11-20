@@ -1,19 +1,10 @@
-# Hi there! 👋
+# Howdy! 👋
 
-I am `Jakob`, a chef and hospitality expert turned into an IT student. 🔪👨‍🍳⚡🖥️
+I am `Jakob`, an engineering student and former chef. 🔪🖥️
 
-##  I am currently working on:
--  Web development (Node.js, Express)
--  Cybersecurity & penetration testing
--  Game development & simulations (Unity, ML Agents)
--  Data analysis & programming (Python, Java)
+I'm currently working as a **Research Assistant** at **Arcada UAS**, contributing to various optimization projects.
 
-##  What motivates me:
-- Building practical solutions from scratch
-- Experimenting with new technologies and frameworks
-- Constantly learning and improving my skills
-
-Currently in my GitHub, I mainly share course milestones and experiments of new technologies. Feel free to explore, reach out if you have similar interests, or even if you want help perfecting a recipe! 🍳
+Here on GitHub, I mainly share research work and course projects.
 
 <!---
 7akob/7akob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
